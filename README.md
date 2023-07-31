@@ -6,4 +6,4 @@ This repository contains code of simple calculator,To-do-List,Interactive elemen
 
 2.To-do-List link : https://aarthi-na.github.io/Task2-JavaScript/To%20do%20List
 
-3.Interactive element in webpage link : https://aarthi-na.github.io/Task2-JavaScript/
+3.Interactive element in webpage link : https://aarthi-na.github.io/Task2-JavaScript/Interactive%20Element
